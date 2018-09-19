@@ -10,42 +10,45 @@
 
 </head>
 
-<header>
-  <font size="8">
-      <h1>Welcome to the Soccer News Network!
-      </h1>
-</header>
-
-
 <body>
 
   <body style="background-color:grey;">
 
+  <h1>
+    <u>
+Main Game: Manchester City vs. Fulham
+</u>
+  </h1>
 
- <font size="11">
+  <h2>
+    Events
+  </h2>
 
+  <ol>
+  <li>Manchester City goal by Leroy Sane in the 2nd minute</li>
+  <li>Manchester City goal by David Silva in the 21st minute</li>
+  <li>Half-Time</li>
+  <li>Manchester City goal by Raheem Sterling in the 47th minute</li>
+  <li>Sergio Aguero substituted out for Gabriel Jesus in the 54th minute</li>
+  <li>Jean Michael Seri substituted out for André-Frank Zambo Anguissa in the 56th minute</li>
+  <li>Fabian Delph substitued out for Ilkay Gündogan in the 67th minute</li>
+  <li>Luciano Vieto substitued out for Floyd Ayité in the 69th minute</li>
+  <li> Raheem Sterling substitued out for Riyad Mahrez in the 74th minute</li>
 
-  <nav>
-  <ul>
-    <li><a href="My Website Page 2.html">This Week's Main Game</a></li>
-    <li><a href="My Website-Weekly Highlights.html">Weekly highlights</a></li>
-    <li><a href="My Website-Player News.html">Player News</a></li>
-  </ul>
-</nav>
+</ol>
 
-
-</font>
-
-<aside> "Bringing you the most recent news about the biggest soccer games in the world!"</aside>
+<img src="https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/09/15/15/mancityfulham9.jpg"
+alt="Manchester City celebrating a goal" height="332.8" width="500">
 
 <hr>
 
+  <li><a href="My Website.html">Back to Home</a></li>
 
 
 </body>
-  <footer>
-Copyright &copy 2018
 
+<footer>
+Copyright &copy 2018
 
 
 
