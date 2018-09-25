@@ -27,13 +27,23 @@
 
 <body style="background-color:grey;">
 
-    <h2>Italy</h2>
+      <h2>
+  <dl>
+    <dt>Italy</dt>
+    <dd>Serie A</dd>
+  </dl>
+</h2>
     <p>Juventus sporting director Fabio Paratici hopes to build on this year's
       successful capture of Cristiano Ronaldo by going after Manchester United
        star Paul Pogba and Real Madrid defender Marcelo next summer.
     </p>
 
-    <h2>Spain</h2>
+     <h2>
+    <dl>
+      <dt>Spain</dt>
+      <dd>La Liga BBVA</dd>
+    </dl>
+  </h2>
     <p>Liverpool transfer target Marco Asensio has once again stated his intention
       to stay at Real Madrid for the foreseeable future. When asked after Spain's superb 6-0 win over Croatia
       if he had ever considered leaving the Spanish club in the summer, Asensio said:
@@ -41,7 +51,12 @@
     </p>
 
 
-    <h2>Germany</h2>
+      <h2>
+    <dl>
+      <dt>Germany</dt>
+      <dd>Bundesliga</dd>
+    </dl>
+  </h2>
     <p>Borussia Dortmund midfielder Julian Weigl has confirmed he had no intention of leaving the club in the summer,
       despite strong speculation linking him with former coach Thomas Tuchel at PSG.
     </p>
