@@ -12,6 +12,13 @@
 
 <body>
 
+ <nav>
+  <ul>
+    <li><a href="My Website-Weekly Highlights.html">Weekly highlights</a></li>
+    <li><a href="My Website-Player News.html">Player News</a></li>
+  </ul>
+</nav>
+
   <body style="background-color:grey;">
 
   <h1>
