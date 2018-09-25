@@ -37,11 +37,11 @@
 <p>
 
  <font size="+2">
-  <ul style="list-style-type:circle">
-    <li> Manchester City 3-0 Fulham</li>
-    <li> Tottenham Hotpurs 1-2 Liverpool</li>
-    <li> Chelsea 4-1 Cardiff City</li>
-  </ul>
+  
+    <blockquote> Manchester City 3-0 Fulham</blockquote>
+    <blockquote> Tottenham Hotpurs 1-2 Liverpool</blockquote>
+    <blockquote> Chelsea 4-1 Cardiff City</blockquote>
+
 </font>
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/JLiM674sJcg"
