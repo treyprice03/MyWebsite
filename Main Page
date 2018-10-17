@@ -10,44 +10,99 @@
 
 </head>
 
-<header>
-  <font size="8">
-      <h1>Welcome to the Soccer News Network!
-      </h1>
-</header>
-
-
 <body>
 
-  <body style="background-color:grey;">
+  <body>
+    <body style="background-color:grey;">
+      <font size="11">
+
+        <style>
+      body {margin:0;}
+
+      .navbar {
+        overflow: hidden;
+        background-color: #333;
+        position: fixed;
+        top: 0;
+        width: 100%;
+      }
+
+      .navbar a {
+        float: left;
+        display: block;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+      }
+
+      .navbar a:hover {
+        background: #ddd;
+        color: black;
+      }
+
+      .main {
+        padding: 16px;
+        margin-top: 30px;
+        height: 1500px; /* Used in this example to enable scrolling */
+      }
+      </style>
+      </head>
+      <body>
+
+      <div class="navbar">
+        <a href="file:///Z:/Web%20Design/GitHub/My%20Website/MyWebsite/My%20Website.html">
+Home</a>
+        <a href="file:///Z:/Web%20Design/GitHub/My%20Website/MyWebsite/My%20Website%20Page%202.html">
+Recent Games</a>
+        <a href="file:///Z:/Web%20Design/GitHub/My%20Website/MyWebsite/My%20Website-Weekly%20Highlights.html">Highlights
+</a>
+        <a href="file:///Z:/Web%20Design/GitHub/My%20Website/MyWebsite/My%20Website-Player%20News.html">
+Player News</a>
+      </div>
+  </style>
+  </head>
+  <body>
+
+<body background="gray">
 
 
- <font size="11">
 
+<h4 style="color:yellow;">
+  <div style="padding-left:16px">
+    <center>
+      <p style="border:4px; border-style:solid; border-color:black;
+      padding: 0.5em;">Soccer News Network</p>
+    </center>
+  </div>
+</h4>
 
-  <nav>
-  <ul>
-    <li><a href="My Website Page 2.html">This Week's Main Game</a></li>
-    <li><a href="My Website-Weekly Highlights.html">Weekly highlights</a></li>
-    <li><a href="My Website-Player News.html">Player News</a></li>
-  </ul>
-</nav>
-
+<center>
 <img src="https://m.media-amazon.com/images/S/aplus-media/vc/7895a621-9359-412d-92d2-94c15adc4c70.jpg"
 alt="Soccer Ball" height="250" width="250">
+</center>
 
 </font>
-
-<aside> "Bringing you the most recent news about the biggest soccer games in the world!"</aside>
-
-<hr>
+<center>
+<aside> <h1 style="font-size: 30px">"Bringing you the most recent news about the biggest soccer games in the world!"</aside>
+</center>
 
 
 
 </body>
-  <footer>
-Copyright &copy 2018
 
+<body background="gray">
+
+
+<hr>
+
+
+  <footer>
+    <footer style="font-size: 20px">
+Copyright &copy 2018
+  </footer>
+</footer>
 
 
 
