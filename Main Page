@@ -1,3 +1,4 @@
+<HTML>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -12,34 +13,76 @@
 
 <body>
 
- 
-   <nav>
-  <ul>
-    <li><a href="My Website Page 2.html">This Week's Main Game</a></li>
-    <li><a href="My Website-Player News.html">Player News</a></li>
-  </ul>
-</nav>
+  <body>
+    <body style="background-color:grey;">
+      <font size="11">
+
+        <style>
+      body {margin:0;}
+
+      .navbar {
+        overflow: hidden;
+        background-color: #333;
+        position: fixed;
+        top: 0;
+        width: 100%;
+      }
+
+      .navbar a {
+        float: left;
+        display: block;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+      }
+
+      .navbar a:hover {
+        background: #ddd;
+        color: black;
+      }
+
+      .main {
+        padding: 16px;
+        margin-top: 30px;
+        height: 1500px; /* Used in this example to enable scrolling */
+      }
+      </style>
+      </head>
+      <body>
+
+      <div class="navbar">
+        <a href="file:///Z:/Web%20Design/GitHub/My%20Website/MyWebsite/My%20Website.html">
+Home</a>
+        <a href="file:///Z:/Web%20Design/GitHub/My%20Website/MyWebsite/My%20Website%20Page%202.html">
+Recent Games</a>
+        <a href="file:///Z:/Web%20Design/GitHub/My%20Website/MyWebsite/My%20Website-Weekly%20Highlights.html">Highlights
+</a>
+        <a href="file:///Z:/Web%20Design/GitHub/My%20Website/MyWebsite/My%20Website-Player%20News.html">
+Player News</a>
+      </div>
+  </style>
+  </head>
+  <body>
+
+<body background="gray">
 
 
 
+<h4 style="color:yellow;">
+  <div style="padding-left:16px">
+    <center>
+      <p style="border:4px; border-style:solid; border-color:black;
+      padding: 0.5em;">Weekly Highlights</p>
+    </center>
+  </div>
+</h4>
 
-<body style="background-color:grey;">
-
-<h1>
-  <u>
-  Weekly highlights
-</u>
-
-</h1>
-
-<p>
-
- <font size="+2">
-  
+<font size="6">
     <blockquote> Manchester City 3-0 Fulham</blockquote>
     <blockquote> Tottenham Hotpurs 1-2 Liverpool</blockquote>
-    <blockquote> Chelsea 4-1 Cardiff City</blockquote>
-
+    <blockquote> Chelsea 4-1 Cardiff City</blockquote
 </font>
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/JLiM674sJcg"
@@ -55,6 +98,7 @@ frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <p>Tottenham - Erik Lamela 90+3'</p>
 </details>
 
+
 <iframe width="853" height="480" src="https://www.youtube.com/embed/ccbce_cPxeI"
 frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -69,10 +113,11 @@ frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
-  <ul style="list-style-type:circle">
-<li><a href="My Website.html">Back to Home</a></li>
 
 </body>
 
 <footer>
+  <footer style="font-size: 20px">
 Copyright &copy 2018
+</footer>
+</HTML>
