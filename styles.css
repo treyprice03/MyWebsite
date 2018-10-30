@@ -21,6 +21,9 @@ body {
 h1 {
 	font-size: 30px
 }
+h2{
+	font-size: 30 px
+}
 .navbar a:hover {
 	background: #ddd;
 	color: black;
@@ -31,11 +34,27 @@ h1 {
 	height: 1500px;
 }
 h4 {
+	font-size: 40px
 	color: yellow;
 	border: 4px  #030303 solid;
-	padding: 0.5em;
+	padding: 3em;
 	text-align: center;
 }
 aside {
 	text-align: center;
+}
+
+body {background-color: grey;}
+
+p {
+	color: black;
+	font-size: 20px
+}
+
+h5 {
+	font-size: 30px
+}
+img {
+	height: 322.8 
+	width:500
 }
