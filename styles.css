@@ -34,7 +34,7 @@ h2{
 	height: 1500px;
 }
 h4 {
-	font-size: 40px
+	font-size: 40px;
 	color: yellow;
 	border: 4px  #030303 solid;
 	padding: 3em;
@@ -55,6 +55,6 @@ h5 {
 	font-size: 30px
 }
 img {
-	height: 322.8 
-	width:500
+	height: 322.8;
+	width:500;
 }
